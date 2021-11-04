@@ -1,0 +1,70 @@
+.now {
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin: 50px 0px 50px 115px;
+  font-size: 25px;
+  color: #5a6275;
+}
+#time {
+  font-weight: lighter;
+  color: #939aa9;
+}
+.location {
+  font-weight: bolder;
+  font-size: 30px;
+}
+.link {
+  color: #5a6275;
+}
+.search {
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  margin: 50px 115px 50px 0px;
+  font-size: 25px;
+  color: #acb5be;
+}
+#scity-input {
+  border-radius: 15px 15px 15px 15px;
+}
+#submit {
+  background-color: #66bfbf;
+  color: #ffffff;
+  border-color: #66bfbf;
+  border-radius: 50%;
+}
+#current {
+  background-color: #66bfbf;
+  color: #ffffff;
+  border-color: #c3cdd6;
+  margin: 5px 15px 0px 70px;
+  border-radius: 15px 15px 15px 15px;
+}
+.title {
+  text-align: center;
+  font-size: 30px;
+  color: #5a6275;
+  margin: 200px 0px 0px 0px;
+}
+.row {
+  display: flex;
+  font-size: 26px;
+  color: #5a6275;
+  margin: 35px 0px 200px 0px;
+}
+.col-md {
+  text-align: center;
+  padding: 12px 0px 12px 10px;
+  width: 100%;
+  height: 100%;
+}
+.days {
+  font-weight: 500;
+}
+.fa-sun {
+  color: #ffa726;
+}
+body {
+  font-family: sans-serif;
+}
