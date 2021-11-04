@@ -51,7 +51,7 @@
   display: flex;
   font-size: 26px;
   color: #5a6275;
-  margin: 35px 0px 200px 0px;
+  margin: 35px 0px 100px 0px;
 }
 .col-md {
   text-align: center;
@@ -64,6 +64,11 @@
 }
 .fa-sun {
   color: #ffa726;
+}
+.footer {
+  text-align: center;
+  font-size: 26px;
+  color: #5a6275;
 }
 body {
   font-family: sans-serif;
